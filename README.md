@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akshay4723?tab=repositories](https://github.com/akshay4723?tab=repositories)
-
 - 📫 How to reach me **jaig7335@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
