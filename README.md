@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi , I'm Jaiganesh</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
+<img align = "right" alt = "coding" width = "400" src = "![image](https://github.com/jaiganesh0027/jaiganesh0027/assets/145220766/fa62698a-d532-42eb-bdc6-a00a800d6536)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay4723&label=Profile%20views&color=0e75b6&style=flat" alt="akshay4723" /> </p>
 
