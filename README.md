@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Iam Funny**
 
-- - 💫 My Inspiration **BAT MAN**
+- 💫 My Inspiration **BAT MAN**
 
 - **"MEN ARE BRAVE"**
 
