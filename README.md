@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💫 My Inspiration **BAT MAN**
-
 - 📫 How to reach me **jaig7335@gmail.com**
 
 - ⚡ Fun fact **Iam Funny**
 
-- **MEN ARE BRAVE**
+- - 💫 My Inspiration **BAT MAN**
+
+- **"MEN ARE BRAVE"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
