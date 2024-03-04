@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **jaig7335@gmail.com**
 
-- ⚡ Fun fact **Iam Funny**
-
-- 💫 My Inspiration **BAT MAN**
-
 - **"MEN ARE BRAVE"**
 
 <h3 align="left">Connect with me:</h3>
